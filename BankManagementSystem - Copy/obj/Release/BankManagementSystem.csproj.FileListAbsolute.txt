@@ -1,0 +1,34 @@
+C:\Users\PC\source\repos\BankManagementSystem\bin\Release\BankManagementSystem.exe.config
+C:\Users\PC\source\repos\BankManagementSystem\bin\Release\BankManagementSystem.exe
+C:\Users\PC\source\repos\BankManagementSystem\bin\Release\BankManagementSystem.pdb
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.AddAccounts.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.Agents.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.MainMenu.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.Settings.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.Splash.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.Login.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.Properties.Resources.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.Transactions.resources
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.exe
+C:\Users\PC\source\repos\BankManagementSystem\obj\Release\BankManagementSystem.pdb
+C:\Users\PC\source\repos\BankManagementSystem - Copy\bin\Release\BankDb.mdf
+C:\Users\PC\source\repos\BankManagementSystem - Copy\bin\Release\BankDb_log.ldf
+C:\Users\PC\source\repos\BankManagementSystem - Copy\bin\Release\BankManagementSystem.exe.config
+C:\Users\PC\source\repos\BankManagementSystem - Copy\bin\Release\BankManagementSystem.exe
+C:\Users\PC\source\repos\BankManagementSystem - Copy\bin\Release\BankManagementSystem.pdb
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.AddAccounts.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.Agents.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.MainMenu.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.Settings.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.Splash.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.Login.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.Properties.Resources.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.Transactions.resources
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.exe
+C:\Users\PC\source\repos\BankManagementSystem - Copy\obj\Release\BankManagementSystem.pdb
